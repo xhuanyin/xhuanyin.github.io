@@ -48,7 +48,7 @@ p {
 
 /* Links */
 a {
-    color: #1abc9c;
+    color: #74c7db;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -95,7 +95,7 @@ a:after {
 }
 
 .navbar-inverse {
-	background-color: #edc7a8;
+	background-color: #a8cfe0;
 	border-color: white;
 }
 
@@ -123,7 +123,7 @@ a:after {
 }
 
 .progress-bar-theme {
-  background-color: #1abc9c;
+  background-color: #a8cfe0;
 }
 
 
@@ -154,7 +154,7 @@ a:after {
 	color: grey
 }
 #footer {
-	background-color: #be9fcc;
+	background-color: #134d66;
 	padding-top: 50px;
 	padding-bottom: 50px; 
 }
